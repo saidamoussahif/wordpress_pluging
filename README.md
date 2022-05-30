@@ -1,4 +1,4 @@
-# Brief_10_ContactForm
+# Contact Form wordpress
 ## Etapes d'installation Wordpress
 ### 1-Installer un serveur web local sur Windows (xampp)
 serveur ulilisé xampp, Windows Apache MySQL PHP [xampp Official Website](https://www.apachefriends.org/fr/index.html)
