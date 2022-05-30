@@ -8,6 +8,5 @@ la première étape est de télécharger le CMS WordPress sur le [site officiel]
 ### 5-Acceder au localhost , puis au dossier wordpress,
 ### remplir la formulaire et lancer l'installation
 ### ScreenShots
-[addMessage](![image](https://user-images.githubusercontent.com/61430707/170795155-1b8b518a-2a63-4fae-a1f6-80e44a28f17a.png)
-![image](https://user-images.githubusercontent.com/61430707/170795296-f72ce3cb-ae7a-4936-8b6c-677b9fcf8b7b.png)
-![image](https://user-images.githubusercontent.com/61430707/170795496-3aa7d229-0e29-4905-b83e-674c5aa8dc56.png)
+![image](https://user-images.githubusercontent.com/93975470/170968944-a30d1888-46dd-4712-9f10-ab70374ab6c1.png)[image](https://user-images.githubusercontent.com/93975470/170967248-0c8ba44f-9a96-49de-87d6-82fe6c30bfac.png)
+![Uploading image.png…]()
